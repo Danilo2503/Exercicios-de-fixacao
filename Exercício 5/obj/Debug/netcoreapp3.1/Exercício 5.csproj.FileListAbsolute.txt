@@ -1,0 +1,13 @@
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercícios de Fixação\Fixacao\Exercicios-de-fixacao\Exercício 5\bin\Debug\netcoreapp3.1\Exercício 5.exe
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercícios de Fixação\Fixacao\Exercicios-de-fixacao\Exercício 5\bin\Debug\netcoreapp3.1\Exercício 5.deps.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercícios de Fixação\Fixacao\Exercicios-de-fixacao\Exercício 5\bin\Debug\netcoreapp3.1\Exercício 5.runtimeconfig.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercícios de Fixação\Fixacao\Exercicios-de-fixacao\Exercício 5\bin\Debug\netcoreapp3.1\Exercício 5.runtimeconfig.dev.json
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercícios de Fixação\Fixacao\Exercicios-de-fixacao\Exercício 5\bin\Debug\netcoreapp3.1\Exercício 5.dll
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercícios de Fixação\Fixacao\Exercicios-de-fixacao\Exercício 5\bin\Debug\netcoreapp3.1\Exercício 5.pdb
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercícios de Fixação\Fixacao\Exercicios-de-fixacao\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.csprojAssemblyReference.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercícios de Fixação\Fixacao\Exercicios-de-fixacao\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.AssemblyInfoInputs.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercícios de Fixação\Fixacao\Exercicios-de-fixacao\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.AssemblyInfo.cs
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercícios de Fixação\Fixacao\Exercicios-de-fixacao\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.csproj.CoreCompileInputs.cache
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercícios de Fixação\Fixacao\Exercicios-de-fixacao\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.dll
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercícios de Fixação\Fixacao\Exercicios-de-fixacao\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.pdb
+D:\Desktop\Projetos SENAI\Lógica de Programação\C#\Exercícios de Fixação\Fixacao\Exercicios-de-fixacao\Exercício 5\obj\Debug\netcoreapp3.1\Exercício 5.genruntimeconfig.cache
