@@ -18,12 +18,23 @@ namespace Exercício_3
             float total = quant * valor;
             Console.WriteLine("O total foi de $: "+total);
 
-            float totalpag = total * desconto;
-
+            float desconto = float.Parse(Console.ReadLine());
+            float totalPagar = total * desconto;
+ 
             if(quant <= 5){
-                desconto = 0,98;        
-            }
+                desconto = 0.98f; 
 
+                if(quant > 5 || quant <=10){
+                    desconto = 0.97f;
+
+                    if(quant > 10){
+                        desconto = 0.95f;
+                    }
+                }    
+            }
+           
+            Console.WriteLine("O total com o desconto foi de $: "+totalPagar);
+ 
         }
     }
 }
